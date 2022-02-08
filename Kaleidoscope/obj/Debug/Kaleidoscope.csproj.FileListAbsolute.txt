@@ -1,0 +1,7 @@
+C:\Users\Dasha\source\repos\Kaleidoscope\Kaleidoscope\bin\Debug\Kaleidoscope.exe.config
+C:\Users\Dasha\source\repos\Kaleidoscope\Kaleidoscope\bin\Debug\Kaleidoscope.exe
+C:\Users\Dasha\source\repos\Kaleidoscope\Kaleidoscope\bin\Debug\Kaleidoscope.pdb
+C:\Users\Dasha\source\repos\Kaleidoscope\Kaleidoscope\obj\Debug\Kaleidoscope.csprojAssemblyReference.cache
+C:\Users\Dasha\source\repos\Kaleidoscope\Kaleidoscope\obj\Debug\Kaleidoscope.csproj.CoreCompileInputs.cache
+C:\Users\Dasha\source\repos\Kaleidoscope\Kaleidoscope\obj\Debug\Kaleidoscope.exe
+C:\Users\Dasha\source\repos\Kaleidoscope\Kaleidoscope\obj\Debug\Kaleidoscope.pdb
